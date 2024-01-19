@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este script em lote facilita a execução de scripts SQL para a Unimed BH utilizando o SQLPlus da Oracle. Ele executa arquivos SQL em um diretório de implantação especificado, gerando um arquivo de log que captura os resultados de cada execução de script.
+Este script em lote facilita a execução de scripts SQL para um deploy utilizando o SQLPlus da Oracle. Ele executa arquivos SQL em um diretório de implantação especificado, gerando um arquivo de log que captura os resultados de cada execução de script.
 
 # Uso
 Execute o script usando o comando:
